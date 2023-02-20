@@ -3,8 +3,6 @@
 // A (3,6,8); B (2,1,-7), -> 15.84
 // A (7,-5, 0); B (1,-1,9) -> 11.53
 Console.Clear();
-
-
 Console.WriteLine("Введите координату X1 первой точки: ");
 int x1 = int.Parse(Console.ReadLine()!);
 Console.WriteLine("Введите координату Y1 первой точки: ");
