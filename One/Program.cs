@@ -33,10 +33,10 @@ int number4 = 0;
 
     if (number1 == number2 && number3 == number4)
     {
-        Console.Write("Да");
+        Console.Write("палиндром");
     }
     else
     {
-        Console.Write("Нет");
+        Console.Write("Не является палиндромом");
     }
 
